@@ -1,6 +1,8 @@
 # demo-admin
 
-> A Vue.js project
+> 用vue、element-ui搭建后台管理单页应用
+
+这是一个脚手架搭建完成的模板项目，添加了axios，element-ui。封装了axios请求，并规范了路由配置方式，写了简单的demo。
 
 ## Build Setup
 
